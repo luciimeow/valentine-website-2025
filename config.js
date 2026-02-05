@@ -36,9 +36,9 @@ const CONFIG = {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No(kyu?)"                                                 // Text for "No" button
-        }
-        
-   },
+        },
+       
+    },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
